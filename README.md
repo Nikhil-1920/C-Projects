@@ -28,3 +28,8 @@ This project is implemented using some basic concepts of C language. Some of the
 2. Compilation command:> gcc "filename.c"
 3. Run command:> ./a.out
 4. Compiler used:> gnu gcc-9.3.0 
+
+# Screenshots
+<img align="center" width="900px" src="https://github.com/Nikhil-1920/C-Projects/blob/main/TicTacToe/Images/image-1.png" />
+<img align="center" width="900px" src="https://github.com/Nikhil-1920/C-Projects/blob/main/TicTacToe/Images/image-2.png" />
+<img align="center" width="900px" src="https://github.com/Nikhil-1920/C-Projects/blob/main/TicTacToe/Images/image-3.png" />
