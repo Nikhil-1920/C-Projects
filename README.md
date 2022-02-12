@@ -31,5 +31,5 @@ This project is implemented using some basic concepts of C language. Some of the
 
 # Screenshots
 <img align="left" width="1000px" src="https://github.com/Nikhil-1920/C-Projects/blob/main/TicTacToe/Images/image-1.png" />
-<img align="left" width="1000px" src="https://github.com/Nikhil-1920/C-Projects/blob/main/TicTacToe/Images/image-2.png" />
 <img align="left" width="1000px" src="https://github.com/Nikhil-1920/C-Projects/blob/main/TicTacToe/Images/image-3.png" />
+<img align="left" width="1000px" src="https://github.com/Nikhil-1920/C-Projects/blob/main/TicTacToe/Images/image-2.png" />
